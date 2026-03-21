@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://mzeeshan-iqbal.github.io/zeeshan-react-portfolio/">My Portfolio</a> • 
+  🌐 <a href="https://www.z33shan.me/">My Portfolio</a> • 
   💼 <a href="https://www.linkedin.com/in/muhammad-z33shan-iqbal/">LinkedIn</a> • 
   ✉️ <a href="mailto:zeshansos600@gmail.com">Email</a>
 </p>
